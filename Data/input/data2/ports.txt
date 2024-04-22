@@ -1,0 +1,11 @@
+ID	Port	region
+1	LeHavre	1
+2	Antwerp	1
+3	Rotterdam	1
+4	Bremerhaven	1
+5	Charleston	2
+6	Miami	2
+7	Veracruz	2
+8	Altamira	2
+9	Houston	2
+10	NewOrleans	2
